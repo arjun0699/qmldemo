@@ -8,9 +8,9 @@ Window {
     title: qsTr("Hello World")
     Rectangle{
         id: main
-        width: 400
-        height: 400
-        color: "pink"
+        width: 200
+        height: 200
+        color: "blue"
         anchors.centerIn: parent
     }
 }
