@@ -10,7 +10,7 @@ Window {
         id: main
         width: 100
         height: 50
-        color: "black"
+        color: "red"
         anchors.centerIn: parent
     }
 }
